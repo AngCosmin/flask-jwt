@@ -1,7 +1,7 @@
 from peewee import CharField, Model, MySQLDatabase
 from app import app
 
-MYSQL_DB = 'together'
+MYSQL_DB = 'database'
 MYSQL_HOST = 'localhost'
 MYSQL_PORT = 3306
 MYSQL_USER = 'root'
